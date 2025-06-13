@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Drew Triplett"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Security Practitioner"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
